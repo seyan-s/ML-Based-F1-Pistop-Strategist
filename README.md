@@ -51,7 +51,7 @@ joblib
 2. Run the script:
 
 ```bash
-python main.py
+python simulate2.py
 ```
 
 3. The output includes:
