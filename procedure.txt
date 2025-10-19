@@ -1,0 +1,16 @@
+=> Data Collection:
+
+Loads a race session
+
+Extracts lap-by-lap data for all drivers
+
+Includes compound, tire life, stint info
+
+Calculates various lap time stats
+
+Flags pitstops
+
+Adds driver/team info
+
+Structures it all into a clean dataset
+

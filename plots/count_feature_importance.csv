@@ -1,0 +1,15 @@
+Feature,Importance
+TrackType_mixed,0.18239204839384218
+TrackType_power,0.18036903650341543
+TrackType_unknown,0.16248208596226169
+TrackType_high-degradation,0.1513649235436014
+Humidity_mean,0.09761963982503047
+Year,0.05293962324608612
+TrackTemp_mean,0.04504204822160336
+CircuitLength_first,0.02992938479073765
+TrackType_traditional,0.0278212343927539
+TrackType_street,0.021939972734325745
+TotalLaps_first,0.02137862385405217
+TrackType_high-altitude,0.01527748665386093
+TrackType_high-downforce,0.007750887120069095
+AirTemp_mean,0.003693004758359709
